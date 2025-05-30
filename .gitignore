@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Docker files and config (optional)
+.dockerignore
+
+# Environment variable files
+.env
+.env.*
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sw?
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Pytest cache
+.pytest_cache/
+
+# mypy cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Ignore database files if any
+*.sqlite3
